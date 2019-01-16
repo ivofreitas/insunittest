@@ -1,0 +1,11 @@
+spring:
+  data:
+    mongodb:
+      port: 27017
+      database: inspector-db
+
+sns:
+  #serverKey: AAAAHQVBrgs:APA91bFtspb3ScHu5KQ3tv615q3nNCnccwIhvdEzzVh8BgVXTtyVgO7H6Rqb2kFTYgdulcL-Yl4TGGF2EalWaTSWh-XzQfYFiAmfIG3ztyKfTJ6BAcvNccHgorXIzjgKetNbS4g_5kY-
+  serverKey: AAAAd7w1Bt4:APA91bFj9Q3Rz-9P06O8g7AL6eadZc2_K4i4tDaVbwYPAtfSDE5jn_L5fvfDrfVR73XlTLbUrn1LxAfn2Hm9bFVjLazb7TvFDOScv0QoAeJOFpJXcrtGeF_YN9I7bBClIFWTZQfTwJGD
+server:
+  port: 8026
